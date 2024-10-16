@@ -10,5 +10,5 @@ int main() {
 }
 
 int suma(int a, int b) {
-    /* completa esta función */
+    return a + b;
 }
